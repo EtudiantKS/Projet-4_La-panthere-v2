@@ -434,7 +434,21 @@ nav .caret {
     margin: 6px -5px 0 0!important;
     float: right;
 }
+.description-activite{
+    font-size: 20px;
+}
 
+.description-activite2{
+    font-size: 17px;
+    font-style: italic;
+}
+.description-activite3{
+    font-size: 15px;
+}
+
+.description-portfolio{
+    font-size: 20px;
+}
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -651,7 +665,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #301B27!important;
 }
 
 .container {
